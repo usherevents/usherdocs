@@ -15,8 +15,6 @@ _Examples_:
 * Entertainment Venues
 {% endhint %}
 
-
-
 #### **Multi-Day Events**
 
 Events that span days, weeks or even months or years can be scheduled in Usher. Select this option if your event is not an Opening of a new business and your sessions will be on more than one day.
