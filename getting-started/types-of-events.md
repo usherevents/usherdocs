@@ -37,7 +37,7 @@ _Examples_:
 
 * Full day of concerts in the park
 * Charity gala and auction
-* Art and Crafts Saturday
-* Executive Roadshow Chicago
+* Art and Crafts show
+* Executive Roadshow
 {% endhint %}
 
