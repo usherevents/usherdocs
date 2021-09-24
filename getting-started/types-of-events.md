@@ -1,8 +1,8 @@
 # Types of Events
 
-### Which Event type should I choose?
+#### Which Event type should I choose?
 
-#### **Openings**
+### **Openings**
 
 Opening a new hotel, restaurant, store or business requires special scheduling and the flexibility to change to keep the ball moving. Openings can be planned even years in advance and preparing for a grand opening takes weeks or even months of training sessions. 
 
@@ -17,7 +17,7 @@ _Examples_:
 * Entertainment Venues
 {% endhint %}
 
-#### **Multi-Day Events**
+### **Multi-Day Events**
 
 Events that span days, weeks or even months or years can be scheduled in Usher. 
 
@@ -32,7 +32,7 @@ _Examples_:
 * Book Tour
 {% endhint %}
 
-#### **Single Day Events**
+### **Single Day Events**
 
 Some events pack a lot of things into a single day. 
 
