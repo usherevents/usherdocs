@@ -21,7 +21,9 @@ _Examples_:
 
 ### **Multi-Day Events**
 
-Events that span days, weeks or even months or years can be scheduled in Usher. 
+Planning a music festival in Nashville? A tech conference in Miami? Or maybe you are a wedding planner with a full schedule of destination weddings? Usher can help.
+
+Events that span days, weeks or even months or years can be scheduled in Usher. Plus you can begin planning years in advance and keep the schedule private until you are ready to go live. 
 
 Select this option if your event is not an Opening of a new business and your sessions will be on more than one day.
 
