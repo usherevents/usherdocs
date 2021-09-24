@@ -50,6 +50,6 @@ _Examples_:
 {% endhint %}
 
 {% hint style="danger" %}
-If your event will have sessions that begin past midnight, you will want to select the multi-day option instead. 
+If your event will have sessions that begin both before and past midnight, you will want to select the multi-day option instead. 
 {% endhint %}
 
