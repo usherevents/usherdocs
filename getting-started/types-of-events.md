@@ -49,3 +49,7 @@ _Examples_:
 * Executive Roadshow
 {% endhint %}
 
+{% hint style="danger" %}
+If your event will have sessions that begin past midnight, you will want to select the multi-day option instead. 
+{% endhint %}
+
