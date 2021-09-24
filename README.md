@@ -2,9 +2,9 @@
 
 Created in partnership with Marriott International, Usher is designed to manage Openings which can span years and often have many changes to the schedule.
 
-{% hint style="success" %}
+
 Built as a SaaS \(**S**oftware **a**s **a** **S**ervice\) application, Usher makes schedule management for opening a new restaurant, hotel, store, or business simple and efficient.
-{% endhint %}
+
 
 ![](.gitbook/assets/scheduleview3.png)
 
@@ -12,9 +12,9 @@ New hires, trainers, vendors, and management simply go online via any web browse
 
 Management can change information and schedules anytime and updates are **immediately available** online.
 
-{% hint style="info" %}
+
 [Templates](manage-opening.md#create-templates) are just one key feature in Usher that will save you tons of time.
-{% endhint %}
+
 
 ![There is no limit to the number of templates you can have in your account.](.gitbook/assets/templateslist2.png)
 
