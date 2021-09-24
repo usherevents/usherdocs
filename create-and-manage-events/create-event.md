@@ -11,7 +11,7 @@ Tracks are commonly used for Conferences but also applicable to most types of ev
 {% hint style="info" %}
 For example at a Photography Conference you may have these tracks: 
 
-* Photo Editing and Post-Production, 
+* Photo Editing and Post-Production
 * Lighting and Using Off-Camera Flash
 * Posing Models and Portraiture
 * Nature and Landscape Photography
