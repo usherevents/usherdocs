@@ -1,3 +1,7 @@
+---
+description: You can print the filtered schedule and in full color. See how below.
+---
+
 # Printing the Schedule
 
 ### Tips for Printing the Schedule
