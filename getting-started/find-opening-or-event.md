@@ -9,10 +9,16 @@ Events and Openings are searchable by _name or partial name_. Begin typing and y
 ![All Scheduled Openings and Events](../.gitbook/assets/allscheduled.png)
 
 {% hint style="info" %}
-Filters are available to limit the list by type of event. Select Opening, Multi-Day or Single Day.
+Filters are available to limit the list by type of event. 
+
+Select:
+
+* Openings
+* Multi-Day Events or 
+* Single Day Events
 {% endhint %}
 
 ![Filter by type of Event](../.gitbook/assets/filtersonly.png)
 
-Note: Past events and openings do not show on the LIST page. The unique URLs for those events will remain active until the organizer removes them so they are accessible directly with the link even after the final session date.
+Note: Past Events and Openings do not show on the LIST page. The unique URLs for those events will remain active until the organizer removes them so they are accessible directly with the link even after the final session date.
 
