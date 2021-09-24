@@ -1,0 +1,80 @@
+ID,Title,T+/-,Date,Start Time,End Time,Primary Position,Additional Positions,Categories,Sub Category,Description,Venue Name,Published
+1,Trainer Arrival and Set up,-18,,1:00:00 PM,5:30:00 PM,Trainer,Senior Trainer,,,The Training team will arrive today and need to set up the training room.,,Y
+2,Kick Off Meeting,-17,,3:00:00 PM,5:00:00 PM,Hotel Leaders,,,,Kick off meeting with department heads.,Office Conference Room,Y
+3,Set-Up,-17,,5:30:00 AM,9:30:00 AM,Trainer,Senior Trainer,,,Training team set up for walkthrough.,Lobby,Y
+4,Property Orientation Day,-17,,10:00:00 AM,3:00:00 PM,All Team,,,,Property walkthrough in groups with training team,Lobby,Y
+5,Workshop Day 1,-16,,9:00:00 AM,5:00:00 PM,All Team,,,,Property workshop full day 1,Lobby,Y
+6,Workshop Day 2,-15,,9:00:00 AM,5:00:00 PM,All Team,,,,Property workshop full day 2,Lobby,Y
+7,Systems Intro,-14,,8:30:00 AM,10:30:00 AM,Front Office,,,,"Systems Introduction - basic navigation, reading the house count, room types and statuses, finding and accessing reservations, reading the reservation screen, guest messaging, and guest history. ",Front Desk,Y
+8,Operations Trainer Arrival,-14,,6:00:00 AM,9:00:00 AM,Trainer,Senior Trainer,,,,,Y
+9,IT Lab,-14,,10:30:00 AM,12:30:00 PM,Front Office,,,,,Guest Computer Station,Y
+10,Meet and Tour,-13,,8:30:00 AM,10:00:00 AM,Housekeeping,Front Office,Housekeeping Leaders,Front Office Leadership,"Review progress, training calendar, expectations and tour department area.",Housekeeping Hub,Y
+11,Operations Training,-13,,10:30:00 AM,11:30:00 AM,Front Office,,Front Office Leadership,,,Front Desk,Y
+12,Record Management,-13,,8:30:00 AM,10:30:00 AM,Front Office,,,,"Topics covered include blocking a guest into a specific room, room moves, cancelling a reservation, extending and adding a rate change, pre-registering a guest, and housekeeping service details.",Front Desk,Y
+13,IT Lab,-13,,10:30:00 AM,12:30:00 PM,Front Office,,,,,Guest Computer Station,Y
+14,Food Safety,-13,,2:00:00 PM,5:00:00 PM,Food and Beverage,"FOH, Event Operations",,,,Main Dining Room,Y
+15,Meet and Tour,-13,,8:30:00 AM,10:00:00 AM,Food and Beverage,,Food and Beverage Leaders,Front Office Leadership,"Review progress, training calendar, expectations and tour department area.",Main Dining Room,Y
+16,Test Meal,-13,,4:00:00 PM,5:00:00 PM,Food and Beverage,"FOH, Event Operations",Food and Beverage Leaders,,Discussion of Food Show and Test Meals logistics,Main Dining Room,Y
+17,Housekeeping - Daily Stand-Up,-12,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+18,Housekeeping Room Staging/Placement Review with Trainer,-12,,8:30:00 AM,11:30:00 AM,Housekeeping,,Housekeeping Leaders,,Work with Housekeeping Leadership on room placement and property readiness check.,Housekeeping Hub,Y
+19,Bar Arts: Intro,-12,,9:00:00 AM,12:00:00 PM,Event Operations,FOH,,,,Main Dining Room,Y
+20,Accounting Day 1,-12,,8:30:00 AM,5:00:00 PM,Accounting/Finance,,,,,Guest Computer Station,Y
+21,Device Training,-12,,1:00:00 PM,3:00:00 PM,Engineering,"Housekeeping, FOH, Front Office",,,Devices must be configured and set-up prior to this training and all applicable associates must be registered in the system.,Guest Computer Station,Y
+22,Banquets,-12,,1:00:00 PM,4:00:00 PM,Event Operations,,,,,Main Dining Room,Y
+23,Housekeeping - Daily Stand-Up,-11,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+24,Housekeeping Operations & Service Training,-11,,8:30:00 AM,11:00:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+25,Bar Arts: Bar 101,-11,,9:00:00 AM,11:00:00 AM,Event Operations,FOH,,,,Main Dining Room,Y
+26,Systems Training,-11,,12:00:00 PM,3:00:00 PM,FOH,,,,,Guest Computer Station,Y
+27,Accounting Day 2,-11,,8:30:00 AM,5:00:00 PM,Accounting/Finance,,,,,Front Desk,Y
+28,Housekeeping - Hotel Readiness,-11,,12:00:00 PM,4:00:00 PM,Housekeeping,,,,"Areas of focus: Organize Storage/Linen Closets, Housekeeping Cart Set-up, Public Space Clean Up and Readiness, Pool, Fitness Center, Elevator and Hallway Deep Cleaning, Room Placement and Readiness",Housekeeping Hub,Y
+29,Banquet Zoning/Staging,-11,,12:30:00 PM,5:00:00 PM,Event Operations,,,,"Trainer and property led. This time is to prepare the work space for an open hotel. This can include: Cleaning, Organizing, and Set-up.",Main Dining Room,Y
+30,Front Office - Daily Stand-Up,-10,,8:00:00 AM,8:15:00 AM,Front Office,,,,,Front Desk,Y
+31,IT Lab,-10,,10:30:00 AM,12:30:00 PM,Front Office,,,,,Front Desk,Y
+32,Guest Registration,-10,,8:30:00 AM,10:30:00 AM,Front Office,,,,"Review the Guest Reservation/record, field usage, and the check-in process including room selection, updating methods of payment, and accommodating walk-in reservations.",Front Desk,Y
+33,Food Show Prep,-10,,9:00:00 AM,4:30:00 PM,Food and Beverage,,,,,Main Dining Room,Y
+34,Banquet Room Placement Practice,-10,,9:00:00 AM,12:00:00 PM,Event Operations,,,,,Main Dining Room,Y
+35,Bar Set up - Prep and Oraganization (Beverage team),-10,,10:00:00 AM,4:00:00 PM,FOH,,,,"Trainer and property led. This time is to prepare the work space for an open hotel. This can include: Cleaning, Organizing, and Set-up.",Main Dining Room,Y
+36,Service Training,-10,,1:00:00 PM,3:00:00 PM,Front Office,,,,,Front Desk,Y
+37,Front Office - Daily Stand-Up,-9,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+38,Housekeeping - Daily Stand-Up,-8,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+39,Getting to know your area - Local Concierge Presentation,-8,,3:00:00 PM,5:00:00 PM,Front Office,,Club,,Property lead training. The hotel is encouraged to invite a person/company from the local area (or Concierge Team) to talk about the local area.,Lobby,Y
+40,Systems for Housekeeping,-8,,1:30:00 PM,4:30:00 PM,Housekeeping,,Housekeeping Leaders,,,Housekeeping Hub,Y
+41,Housekeeping - Check-Out/Stay-Over Training,-8,,8:30:00 AM,11:00:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+42,Final Review Test Meals with FOH,-8,,2:00:00 PM,3:00:00 PM,Food and Beverage,FOH,Food and Beverage Leaders,,Insure all items are on property for Test Meal execution,Main Dining Room,Y
+43,Cocktail Training - Beverage Team,-8,,1:30:00 PM,5:00:00 PM,Event Operators,FOH,,,,Main Dining Room,Y
+44,Front Office - Daily Stand-Up,-8,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+45,Front Office - Daily Stand-Up,-7,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+46,Housekeeping - Daily Stand-Up,-7,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+47,Hotel Tour- Rooms Review Front Office,-7,,12:30:00 PM,1:30:00 PM,Front Office,,,,,Lobby,Y
+48,Test Meal Prep,-7,,8:00:00 AM,5:00:00 PM,Food and Beverage,FOH,,,,Main Dining Room,Y
+49,Beverage Training - Cocktail Execution (beverage team),-7,,10:00:00 AM,5:00:00 PM,Event Operations,FOH,,,,Main Dining Room,Y
+50,Club Zoning and Staging,-7,,8:00:00 AM,4:00:00 PM,FOH,,Club,,"Trainer and property led. This time is to prepare the work space for an open hotel. This can include: Cleaning, Organizing, and Set-up.",Club,Y
+51,Concierge Training,-6,,3:00:00 PM,5:00:00 PM,Front Office,,"Front Desk, Concierge",,,Concierge Desk,Y
+52,Management Meeting,-6,,1:30:00 PM,5:00:00 PM,Front Office,,Front Office Leadership,,,Management Office,Y
+53,Front Desk Readiness,-6,,8:30:00 AM,11:30:00 AM,Front Office,,,,Prepare space for hotel opening,Front Desk,Y
+54,Front Office - Daily Stand-Up,-6,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+55,Housekeeping - Daily Stand-Up,-5,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+56,Banquet Test Meal Coffee Break,-5,,3:00:00 PM,4:30:00 PM,Event Operations,,,,,Main Dining Room,Y
+57,Housekeeping - Daily Stand-Up,-4,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+58,Banquets Test- Dinner Buffet,-4,,12:00:00 PM,2:00:00 PM,Food and Beverage,Event Operations,,,,Main Dining Room,Y
+59,Club Afternoon Test Meal,-3,,11:00:00 AM,12:00:00 PM,Food and Beverage,FOH,Club,,,Club Dining Room,Y
+60,Front Office - Daily Stand-Up,-3,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+61,Restaurant Test Meal Lunch,-3,,1:00:00 PM,3:00:00 PM,Food and Beverage,FOH,,,,Main Dining Room,Y
+62,Banquets Buffet All Hotel Lunch,-3,,12:00:00 PM,2:00:00 PM,Food and Beverage,Event Operations,,,,Main Dining Room,Y
+63,Front Office Vendor Training,-3,,9:00:00 AM,12:00:00 PM,Front Office,,,,Property Led. For training with any outside vendors.,Front Desk,Y
+64,Housekeeping - Daily Stand-Up,-3,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+65,Mobile Check In,-3,,1:00:00 PM,3:00:00 PM,Front Office,,,,,Front Desk,Y
+66,Front Office - Daily Stand-Up,-2,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+67,Club Afternoon Snack,-2,,11:00:00 AM,12:00:00 PM,Food and Beverage,FOH,Club,,,Club Dining Room,Y
+68,Club PM Test Meal,-2,,2:00:00 PM,3:00:00 PM,Food and Beverage,FOH,Club,,,Club Dining Room,Y
+69,Club AM Test Meal,-2,,10:00:00 AM,11:00:00 AM,Food and Beverage,FOH,Club,,,Club Dining Room,Y
+70,Housekeeping - Daily Stand-Up,-2,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+71,Front Desk Readiness,-2,,8:30:00 AM,4:00:00 PM,Front Office,,,,Ensure all work space is hotel opening ready.,Front Desk,Y
+72,Banquets Reception,-2,,12:00:00 PM,2:00:00 PM,Food and Beverage,Event Operations,,,,Main Dining Room,Y
+73,Cash Handling,-1,,9:00:00 AM,9:45:00 AM,Event Operations,FOH,,,,Front Desk,Y
+74,Housekeeping - Daily Stand-Up,-1,,8:00:00 AM,8:30:00 AM,Housekeeping,,,,,Housekeeping Hub,Y
+75,Front Office - Daily Stand-Up,-2,,8:00:00 AM,8:30:00 AM,Front Office,,,,,Front Desk,Y
+76,Opening Day,0,,1:00:00 PM,5:00:00 PM,All Team,,,,,,Y
+77,Opening Celebration,0,,10:00:00 AM,1:00:00 PM,All Team,,,,,Lobby and Pool,Y
+78,Inventory,1,,8:30:00 AM,12:30:00 PM,Group Housing,,,,,Management Office,Y
+79,System Admin Meeting,1,,1:30:00 PM,4:00:00 PM,Front Office,,Front Office Leadership,,,Management Office,Y
