@@ -30,9 +30,9 @@ The other half of Usher handles scheduling for Events: Multi-Day Events and Sing
 
 Multi-Day Events feature unlimited numbers of sessions over unlimited days/weeks/months - even years. Events are not for new hires and training and thus this is tailored to a more general event audience.
 
-{% hint style="info" %}
+
 Conferences, Festivals, and Destination Weddings are examples of Multi-Day Events
-{% endhint %}
+
 
 The general structure of an Event in Usher is the same as an Opening but with some small adjustments. Tracks replaces Positions as the main required field for all sessions in Events.
 
@@ -42,9 +42,9 @@ For Events that will be scheduled for just one jam-packed day of sessions, Usher
 
 _Multi-Day and Single-Day Events are differentiated only due to the Shift Dates feature in Usher which allows you to change the dates of all of the sessions for your Opening or Event within seconds._
 
-{% hint style="success" %}
+
 [Create an account today](create-account.md#creating-an-account-on-usher-is-simple-and-free) and try it yourself!
-{% endhint %}
+
 
 If you get stuck, check the documentation here or [send us a message](https://usher.events/contact) and we will be happy to help.
 
