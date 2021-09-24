@@ -2,7 +2,7 @@
 
 Link to our website: [Usher Openings and Events](https://usher.events)
 
-![](.gitbook/assets/usherwebsite.png)
+![](../.gitbook/assets/usherwebsite.png)
 
 
 

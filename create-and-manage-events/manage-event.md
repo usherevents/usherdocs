@@ -1,36 +1,30 @@
-# Manage Opening
+# Manage Event
 
 ## My Events <a id="my-events"></a>
 
-**Once you have created your Opening or Event, this is your home base.**
+**Once you have created your Event, as an administrator, this is your home base.**
 
-![My Events and Openings](.gitbook/assets/myevents.png)
+![My Events and Openings](../.gitbook/assets/myevents.png)
 
 From here you can make changes to your openings or events, manage presenters, attendees, admins, locations and much more.
 
 ### View URL <a id="view-url"></a>
 
-When you have made your opening or event live, you can see your personalized home page at the URL you selected when you created your opening or event.
+Once you have made your event live, you can see your personalized home page at the URL you selected when you created your event.
 
-Go to My Events, select the yellow URL button on the row of the opening or event you want to view and select that to see the full URL.
+Go to My Events, select the yellow URL button on the row of the event you want to view and click that to see the full URL.
 
-To easily copy the URL to your clipboard to paste into an email or other document, select Copy.
-
-Also from My Events, you can select on the Name of your opening or event and it will open your personalized site in a new tab.
+Also from My Events, you can click on the Name of your event and it will open your personalized site in a new tab.
 
 ### Manage Sessions <a id="manage-sessions"></a>
 
 Go to My Events.
 
-Under the heading for Sessions \(Sess\) in the row of the Event or Opening you want to Edit, select the number.
+Under the heading for Sessions \(Sess\) in the row of the Event you want to Edit. The number there indicates how many Sessions are in that Opening or Event.
 
-![Numbers indicate the count for each item and link to the details for that item](.gitbook/assets/shiftbutton.png)
+Select the number which will take you to the next screen.
 
-The number there indicates how many Sessions are in that Opening or Event.
-
-![Manage Sessions shows a list view of all sessions in your Opening](.gitbook/assets/managesessions.png)
-
-Select the Session Name \(link shows in blue\).
+Select the Session Name \(link shows in blue\)
 
 This will take you to the Edit Session View.
 
@@ -44,15 +38,15 @@ This is different than adding an Account Administrator.
 
 Here’s an example of why this would be useful:
 
-Let’s say you are opening a new hotel for your company. You use a template to create the Opening because many of the sessions are the same for each new location you open. At this location there is a unique restaurant and gift shop and you want to give an on-property manager the ability to create and manage specialty sessions to train employees for those property features.
+Let’s say you are managing the scheduling for a large conference. You use a template to create the Event because many of the sessions are the same as last year since it is an annual conference. For the pre-conference set up there is a huge list of logistical items that need to be done and the on-site manager could work much more efficiently with the ability to create sessions for those activities.
 
-**Add the on-site manager as an Event Admin so they can create and manage sessions solely for that property’s opening event.**
+**You can set that manager up as an Event Admin so they can create and manage sessions solely for that  event.**
 
 {% hint style="warning" %}
 The Event Admin will not have access to any other Openings or Events that you manage from your account.
 {% endhint %}
 
-**Add an Event Administrator Steps:**
+**Add an Event Administrator Steps**
 
 1. Go to My Events.
 2. Select Edit under Adm for the event or opening you want.
@@ -63,19 +57,17 @@ The Event Admin will not have access to any other Openings or Events that you ma
 
 ### Presenters <a id="presenters"></a>
 
-Presenters is a generic term for anyone who is leading, teaching, performing or hosting any of the sessions in your Opening or Event.
+Presenters is a generic term for anyone who is leading, teaching, performing or hosting any of the sessions in your opening or event.
 
 Presenters can be added when adding or editing any session individually.
 
-You can also add Presenters to your Opening or Event in the Manage Presenters view either individually or via file upload.
+You can also add Presenters to the Event in Manage Presenters individually or via file upload.
 
 #### Manage Presenters <a id="manage-presenters"></a>
 
-From My Events select the number in the Pres column.
+From My Events click the number in the Pres column. The number indicates how many Presenters are listed in this Event.
 
-The number indicates how many Presenters are listed in this Opening or Event.
-
-You can add a new presenter by selecting the + button.
+You can add a new presenter by clicking the + button.
 
 In the pop up, enter name of the presenter, and the type of presenter. Email is optional. Select SAVE.
 
@@ -87,23 +79,22 @@ You may also upload a list of presenters in a .csv file and assign them to sessi
 
 Select the up arrow and choose the file to use for upload.
 
-{% file src=".gitbook/assets/usherpresenteruploadexample.csv" caption="Upload Presenters Example File" %}
+{% file src="../.gitbook/assets/usherpresenteruploadexample.csv" caption="Upload Presenters Example File" %}
 
-### Positions <a id="positions"></a>
+### Tracks <a id="tracks"></a>
 
-Every position for an Opening has a name and assigned color.
-
-From My Events, select the number under Pstn \(Positions\).
+Every track for an event has a name and assigned color.
 
 {% hint style="success" %}
 Usher makes it easy to fix a typo or pick your favorite colors.  
+
 Select the Edit button next to the position you want to edit and make your changes.
 {% endhint %}
 
-Positions may also be removed from this Opening. Select Delete to remove the position completely from your Opening. You will be asked to confirm that you really want to do that before it deletes from the database.
+Tracks may also be removed from this Event. Select Delete to remove the track completely from your Event. You will be asked to confirm that you really want to do that before it deletes from the database.
 
 {% hint style="danger" %}
-If a position is a Primary position for any existing sessions, you will not be able to delete the position. First change the position for any associated sessions and then delete.
+If a track is a Primary track for any existing sessions, you will not be able to delete the track. First change the track for any associated sessions and then delete.
 {% endhint %}
 
 ### Locations <a id="locations"></a>
@@ -117,12 +108,12 @@ In the pop up box, enter the name of the location. **Name is the only required f
 Often this is used for specifying a particular conference room or location on a large property rather than an entirely separate address.
 
 {% hint style="info" %}
-_Examples_: Kitchen, Conference Room 2, Carlito's Restaurant, Parking Lot B
+_Examples_: Meeting Hall, Hotel Lobby, Booth 45, Main Stage
 {% endhint %}
 
 You may also enter a full address for the location.
 
-**Don't forget to select SAVE.**
+**Don't forget to click SAVE.**
 
 ### Attendees <a id="attendees"></a>
 
@@ -130,7 +121,7 @@ From My Events, select the number in the Att column.
 
 This will open Manage Attendees where you can see the details for each attendee.
 
-#### Add Individual Attendee <a id="add-individual-attendee"></a>
+#### Add individual attendee <a id="add-individual-attendee"></a>
 
 You can add a new attendee by selecting the + button.
 
@@ -138,13 +129,13 @@ All three fields are required: First Name, Last Name, Email.
 
 In the pop up, enter name of the attendee, and the email address of attendee. SAVE.
 
-#### Add Attendees From File <a id="add-attendees-from-file"></a>
+#### Add attendees from file <a id="add-attendees-from-file"></a>
 
 You may also upload a list of attendees in a .csv file.
 
 Select the up arrow and choose the file to use for upload.
 
-{% file src=".gitbook/assets/attendeesexampleupload.csv" caption="Attendees Example Upload" %}
+{% file src="../.gitbook/assets/attendeesexampleupload.csv" caption="Attendees Example Upload" %}
 
 ### Notify People of Changes
 
@@ -166,9 +157,9 @@ Select SEND to immediately notify all Attendees to check for updates.
 
 ### Options <a id="options"></a>
 
-#### Change Opening Name <a id="change-opening-name"></a>
+#### Change Event Name <a id="change-event-name"></a>
 
-The name of your Opening can be changed at any time.
+The name of your Event can be changed at any time.
 
 {% hint style="warning" %}
 Changing the name will not change your custom URL. The custom URL is not editable.
@@ -178,7 +169,7 @@ Enter the name and select the yellow SAVE button.
 
 #### Adding more sessions from Template or File <a id="adding-more-sessions-from-template-or-file"></a>
 
-You can add more sessions to your Opening from a Template or File with the same process as when you are creating your Opening.
+You can add more sessions to your Opening from a Template or File with the same process as when you are creating your Event.
 
 {% hint style="danger" %}
 If you select the same Template again, all sessions from that template will be added a second time and assigned new ID numbers.
@@ -186,21 +177,19 @@ If you select the same Template again, all sessions from that template will be a
 
 ### Details <a id="details"></a>
 
-**Change the Opening image**
+**Change the Event image**
 
-To change the image, select Browse for Image and select the new image to replace the current one.
+To change the image, click Browse for Image and select the new image to replace the current one.
 
-Contact Information, Opening Details and the Location of the Opening can be changed anytime.
+Contact Information, Event Details and the Location of the Event can be changed anytime.
 
 **Be sure to scroll down and SAVE your changes.**
 
 ### Shift Dates <a id="shift-dates"></a>
 
-This feature allows you to shift the session dates for your entire opening.
+This feature allows you to shift the session dates for your entire opening or event.
 
 From My Events, select the SHIFT button for the opening or event you want to change.
-
-![SHIFT Dates button is gray](.gitbook/assets/shiftbutton.png)
 
 In the pop up box, it will tell you: 
 
@@ -210,23 +199,9 @@ Choose your new opening date and then select the Shift button. A warning will po
 
 You can shift dates anytime you would like. **Notifications are not sent out to anyone upon date shifting.** You must choose to notify people of the changes.
 
-### Shift Opening Date ONLY <a id="shift-opening-date-only"></a>
-
-From My Events, select the Opening date.
-
-![Opening Date is a link that will open this option](.gitbook/assets/shiftbutton.png)
-
-The pop up will ask you for a new opening date.
-
-{% hint style="warning" %}
-This option will only change your Opening Date. NO SESSIONS will be affected by this change.
-{% endhint %}
-
-Choose your new Opening date and select Submit Changes.
-
 ### Status <a id="status"></a>
 
-All Openings stay in DRAFT status until you choose to GO LIVE. DRAFT status means that the personalized site located at the custom URL you selected in the Create process is not yet viewable.
+All Events stay in DRAFT status until you choose to GO LIVE. DRAFT status means that the personalized site located at the custom URL you selected in the Create process is not yet viewable.
 
 {% hint style="danger" %}
 Once you GO LIVE, you cannot return to DRAFT status.
@@ -234,7 +209,7 @@ Once you GO LIVE, you cannot return to DRAFT status.
 
 ### Cancel <a id="cancel"></a>
 
-From My Events, you may choose to Cancel your entire opening.
+From My Events, you may choose to Cancel your entire event.
 
 This will delete the event and all data so be sure you want to do this before proceeding.
 
@@ -242,25 +217,25 @@ Select the X button for the event or opening.
 
 Confirm that you want to do this by selecting OK. **This cannot be undone.**
 
-Your opening, customized site and all data will be removed immediately.
+Your event, customized site and all data will be removed immediately.
 
 ## Create Templates <a id="create-templates"></a>
 
 There are two ways to create templates:
 
-* From an existing opening you have in your account
+* From an existing event or opening you have in your account
 * By uploading a file of sessions
 
 ### Create a template from an existing opening or event <a id="create-a-template-from-an-existing-opening-or-event"></a>
 
 1. Go to My Events
-2. Under the heading for Sessions \(Sess\) in the row of the Event or Opening you want to create a template from, select the Sess number.
-3. The next screen is the List of Sessions View.
-4. Select the double paper icon.
-5. A pop up will ask you to name your Template.
-   * The name must be unique.
-   * Spaces are allowed.
-6. Select SAVE and you have now created a new template that will appear in your drop down list.
+2. Under the heading for Sessions \(Sess\) in the row of the Event or Opening you want to create a template from, click on the number
+3. The next screen is the List of Sessions View
+4. Select the double paper icon
+5. A pop up will ask you to name your Template
+   * The name must be unique
+   * Spaces are allowed
+6. Select SAVE and you have now created a new template that will appear in your drop down list
 
 ### Create a template from a file upload <a id="create-a-template-from-a-file-upload"></a>
 
@@ -272,7 +247,7 @@ Upload your .csv file to create your template.
 
 The format for the .csv file is the same as for creating a new opening.
 
-{% file src=".gitbook/assets/templateuploadexample \(1\).csv" %}
+{% file src="../.gitbook/assets/templateuploadexample \(1\).csv" %}
 
 ## Manage Templates
 

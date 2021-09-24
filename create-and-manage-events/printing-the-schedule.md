@@ -14,7 +14,7 @@ As shown in the GIF below, in your print settings, under More Settings, you can 
 
 Also, make sure you have Color, not Black and White, selected for Color Mode. 
 
-![](.gitbook/assets/usherprintingtipsshortgif.gif)
+![](../.gitbook/assets/usherprintingtipsshortgif.gif)
 
 #### Printing a Filtered Schedule
 

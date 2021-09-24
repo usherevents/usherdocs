@@ -9,7 +9,12 @@ Choosing a **primary track is required** for each session and is what determines
 Tracks are commonly used for Conferences but also applicable to most types of events.
 
 {% hint style="info" %}
-For example at a Photography Conference you may have these tracks: Photo Editing and Post-Production, Lighting and Using Off-Camera Flash, Posing Models and Portraiture, Nature and Landscape Photography
+For example at a Photography Conference you may have these tracks: 
+
+* Photo Editing and Post-Production, 
+* Lighting and Using Off-Camera Flash
+* Posing Models and Portraiture
+* Nature and Landscape Photography
 {% endhint %}
 
 Usher allows you to select any additional tracks that also require that session so people in those tracks will see the session on their schedules when filtered.
@@ -47,7 +52,7 @@ From the main menu, select CREATE
 
 You will see three options for types of events. Choose either Multiple-Day or Single-Day.
 
-![Create an Opening or Event options](.gitbook/assets/create.png)
+![Create an Opening or Event options](../.gitbook/assets/create.png)
 
 ## Custom URL <a id="custom-url"></a>
 
@@ -77,7 +82,7 @@ _What if I don’t know what the date\(s\) will be yet?_
 
 The dates are required but can be changed as many times as you want. Choose a date or dates anytime in the future.
 
-All Events and Openings are held in [DRAFT status](create-account.md#draft-status) until you choose to [GO LIVE](create-event.md#go-live). This means that your schedule and information about your event are not yet shown online at your chosen URL.
+All Events and Openings are held in [DRAFT status](../getting-started/create-account.md#draft-status) until you choose to [GO LIVE](create-event.md#go-live). This means that your schedule and information about your event are not yet shown online at your chosen URL.
 
 **You can change your event date\(s\) as many times as you need both before and after you** [**GO LIVE**](create-event.md#go-live)**.**
 
@@ -97,7 +102,7 @@ To upload from a file, select Browse to find the .csv file that you want to use.
 
 Below is a link for an example file showing the fields and formatting for your file upload to work properly.
 
-{% file src=".gitbook/assets/openinguploadexample \(1\).csv" %}
+{% file src="../.gitbook/assets/openinguploadexample \(1\).csv" %}
 
 1. Select Open to choose the file
 2. Back on the Usher screen select the yellow SAVE button
@@ -311,7 +316,7 @@ Go to My Events
 
 Once you have created your Opening or Event, as an administrator, **this is your home base**.
 
-![My Events and Openings](.gitbook/assets/myevents.png)
+![My Events and Openings](../.gitbook/assets/myevents.png)
 
 Every current and future opening and event will show in the list by default, divided by Opening and Event tabs.
 

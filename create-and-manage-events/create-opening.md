@@ -40,7 +40,7 @@ Let's walk through how to create a complete opening.
 
 From the main menu, select CREATE.
 
-![Create an Opening or Event options](.gitbook/assets/create.png)
+![Create an Opening or Event options](../.gitbook/assets/create.png)
 
 You will see three options for types of events. Choose the first option for Opening.
 
@@ -72,7 +72,7 @@ Select your Opening Date.
 
 The Opening date is required but can be changed as many times as you want. ****Choose an Opening Date anytime in the future.
 
-All Events and Openings are held in [DRAFT status](create-account.md#draft-status) until you choose to [GO LIVE](create-opening.md#go-live). This means that your schedule and information about your event are not yet shown online at your chosen URL.
+All Events and Openings are held in [DRAFT status](../getting-started/create-account.md#draft-status) until you choose to [GO LIVE](create-opening.md#go-live). This means that your schedule and information about your event are not yet shown online at your chosen URL.
 
 **You can change your Opening date as many times as needed both before and after you** [**GO LIVE**](create-opening.md#go-live)**.**
 
@@ -92,7 +92,7 @@ To upload from a file, select Browse to find the .csv file that you want to use.
 
 Below is a link for an example file which shows the fields and formatting for your upload to work properly.
 
-{% file src=".gitbook/assets/openinguploadexample \(1\).csv" %}
+{% file src="../.gitbook/assets/openinguploadexample \(1\).csv" %}
 
 1. Select Open to choose the file.
 2. Back on the Usher screen select the yellow SAVE button.
@@ -180,7 +180,7 @@ _Specific locations for each session are also available in the Add/Edit Sessions
 
 Once you SAVE the details for your Opening, you will land on the [Manage Sessions](manage-opening.md#manage-sessions) screen.
 
-![Manage Sessions](.gitbook/assets/managesessions.png)
+![Manage Sessions](../.gitbook/assets/managesessions.png)
 
 From here you can add individual sessions by selecting the + button.
 
@@ -225,7 +225,7 @@ Each session is set at a T- \(or +\) number.
 * -9 = Nine days before opening
 * +1 = One day AFTER opening
 
-![Date and T numbers are linked in form view](.gitbook/assets/tnumbers.png)
+![Date and T numbers are linked in form view](../.gitbook/assets/tnumbers.png)
 
 Note: You can also enter dates the standard way without using the T+/- and Usher will automatically set your T numbers.
 
@@ -237,7 +237,7 @@ Select the Start Time and End Time for each session using the arrows or by selec
 
 The Primary Position is required and **determines the color coding** that you see on the live schedule.
 
-![](.gitbook/assets/scheduleview3.png)
+![](../.gitbook/assets/scheduleview3.png)
 
 All positions that have been added to this Opening will be available in the drop-down menu to select.
 
@@ -310,7 +310,7 @@ Go to My Events
 
 Once you have created your Opening or Event, **this is your home base**.
 
-![My Events and Openings](.gitbook/assets/myevents.png)
+![My Events and Openings](../.gitbook/assets/myevents.png)
 
 Every current and future opening will show in the list.
 
@@ -347,7 +347,7 @@ Openings and Events stay in DRAFT status by default until you choose to GO LIVE.
 
 When you are ready to make your unique URL live with your personalized home page and event details, go to My Events, select the number under Sess on the Opening or Event you are ready to make live.
 
-![](.gitbook/assets/golive.png)
+![](../.gitbook/assets/golive.png)
 
 Select the GO LIVE yellow button
 
