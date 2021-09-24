@@ -4,7 +4,9 @@
 
 #### **Openings**
 
-Opening a new hotel, restaurant, store or business requires special scheduling and the flexibility to change to keep the ball moving. Openings can be planned even years in advance and preparing for a grand opening takes weeks or even months of training sessions. Choose Opening to create a schedule for your team and vendors that allows for shifting dates of all sessions if your opening date gets pushed
+Opening a new hotel, restaurant, store or business requires special scheduling and the flexibility to change to keep the ball moving. Openings can be planned even years in advance and preparing for a grand opening takes weeks or even months of training sessions. 
+
+Choose Opening to create a schedule for your team and vendors that allows for shifting dates of all sessions if your opening date gets pushed.
 
 {% hint style="info" %}
 _Examples_: 
@@ -17,7 +19,9 @@ _Examples_:
 
 #### **Multi-Day Events**
 
-Events that span days, weeks or even months or years can be scheduled in Usher. Select this option if your event is not an Opening of a new business and your sessions will be on more than one day.
+Events that span days, weeks or even months or years can be scheduled in Usher. 
+
+Select this option if your event is not an Opening of a new business and your sessions will be on more than one day.
 
 {% hint style="info" %}
 _Examples_: 
@@ -30,7 +34,11 @@ _Examples_:
 
 #### **Single Day Events**
 
-Some events pack a lot of things into a single day. Usher can manage a schedule of virtually unlimited Sessions. Choose the Single-Day Event option for your event that happens on just one special day.
+Some events pack a lot of things into a single day. 
+
+Usher can manage a schedule of virtually unlimited Sessions. 
+
+Choose the Single-Day Event option for your event that happens on just one special day.
 
 {% hint style="info" %}
 _Examples_: 
