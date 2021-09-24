@@ -1,8 +1,8 @@
 ---
 description: >-
-  Looking at the details about your event in the text editor doesn't have to be
-  plain and boring. Check out some options for sprucing up your messaging on
-  your customized site.
+  Looking at the details about your Opening or Event doesn't have to be plain
+  and boring. Check out some options for sprucing up your messaging on your
+  customized site.
 ---
 
 # Syntax for Text Editor
