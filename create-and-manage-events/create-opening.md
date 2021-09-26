@@ -4,17 +4,23 @@
 
 Openings in Usher are tailored specifically to hotels, restaurants, stores and other businesses getting ready or planning to open a new location. Openings are comprised of sessions - classes, meetings or any other activities - that people need to attend. Sessions on the schedule are filterable by Position and Category.
 
+Here's an introduction to a few key features before we get to [creating a complete Opening](create-opening.md#create-an-opening). 
+
+### Key Features
+
 Choosing a **primary position is required** for each session and is what determines the color coding you see on the schedule.
 
-#### Position = job type.
+Position = job type.
 
 {% hint style="info" %}
 _Examples_: Front Desk, Sales Associate, Server, Housekeeping, Management
 {% endhint %}
 
-Usher allows you to select any additional positions that also require that session so they will see the session on their schedules when filtered.
+Usher ensures that everyone who needs to attend a session will see the session on their schedule when it is filtered by position. In the session add/edit screen simply include additional positions to that session.
 
-Openings also require an opening date. What differs about this opening date from other events such as conferences, is that it usually lands on the last day or near the last day of the all sessions rather than the first day. **Opening day is like a launch date.** As the rocket launch counts down you see the T- numbers count down toward the launch. We do the same thing in Usher.
+Openings also require an **opening date**. 
+
+What differs about this opening date from other events like conferences, is that it usually lands on the last day or near the last day of the all sessions rather than the first day. **Opening day is like launch day.** As the rocket launch counts down you see the T- numbers count down toward the launch. We do the same thing in Usher.
 
 You set your opening date. Then each session is set at a T- \(or +\) number.
 
@@ -23,18 +29,14 @@ You set your opening date. Then each session is set at a T- \(or +\) number.
 * -9 = Nine days before opening
 * +1 = One day _after_ opening
 
-Note: You can also enter dates for sessions in standard date format without using the T+/- and it will automatically set your T+/- numbers.
+Usher was designed to solve time-consuming problems and the T+/- feature helps with two major time-eaters: 
 
-Opening dates can change many times in the planning process.
+* Scheduling changes – with the most common being Openings delayed.
+* Re-doing work – having to add the same sessions over and over each time you do a new opening.
 
-{% hint style="success" %}
-Usher has a powerful feature which allows you to reschedule your entire Opening called  
-[Shift Dates](manage-opening.md#shift-dates).
+Thanks to the T+/- feature, Usher allows you to [shift dates](manage-opening.md#shift-dates) for the entire Opening within seconds and create templates for repeatable processes so each new opening schedule can be created very efficiently.
 
-You simply select your new Opening Date and all sessions will shift to the updated schedule.
-{% endhint %}
-
-Let's walk through how to create a complete opening.
+Now, let's walk through how to create a complete opening.
 
 ## Create an Opening <a id="create-an-opening"></a>
 
