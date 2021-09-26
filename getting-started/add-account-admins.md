@@ -1,6 +1,6 @@
 # Add Account Admins
 
-**No need to manage everything by yourself. Share the work! And empower your team.**
+**No need to manage everything by yourself. Share the work and empower your team!**
 
 Account Administrators have full access to the account and all openings or events.
 
