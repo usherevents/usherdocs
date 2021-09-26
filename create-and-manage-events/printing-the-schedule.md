@@ -16,7 +16,7 @@ Depending on your printer settings, you may see a simplified view with no color 
 
 As shown in the GIF below, in your print settings, under More Settings, you can turn the color bars on by selecting Print Backgrounds.
 
-Also, make sure you have Color, not Black and White, selected for Color Mode. 
+Make sure you have Color, not Black and White, selected for Color Mode. 
 
 ![](../.gitbook/assets/usherprintingtipsshortgif.gif)
 
