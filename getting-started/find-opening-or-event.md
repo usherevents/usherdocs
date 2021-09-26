@@ -20,5 +20,5 @@ Select:
 
 ![Filter by type of Event](../.gitbook/assets/filtersonly.png)
 
-Note: Past Events and Openings do not show on the LIST page. The unique URLs for those events will remain active until the organizer removes them so they are accessible directly with the link even after the final session date.
+Note: Past Events and Openings do not show on the LIST page. The unique URLs for those events will remain active until the organizer removes them which means they are accessible directly with the link even after the final session date.
 
