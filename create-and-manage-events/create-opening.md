@@ -2,7 +2,7 @@
 
 ## Overview <a id="overview"></a>
 
-Openings in Usher are tailored specifically to hotels, restaurants, stores and other businesses getting ready or planning to open a new location. Openings are comprised of sessions - classes, meetings or any other activities that people need to attend. Sessions on the schedule are filterable by Position and Category.
+Openings in Usher are tailored specifically to hotels, restaurants, stores and other businesses getting ready or planning to open a new location. Openings are comprised of sessions - classes, meetings or any other activities - that people need to attend. Sessions on the schedule are filterable by Position and Category.
 
 Choosing a **primary position is required** for each session and is what determines the color coding you see on the schedule.
 
