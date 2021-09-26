@@ -22,9 +22,9 @@ Also, make sure you have Color, not Black and White, selected for Color Mode.
 
 #### Printing a Filtered Schedule
 
-To print the schedule for only one position or category, first filter the schedule online to what you want to print. Then select print and you will see in the preview that just the filtered view will be printed.
+To print the schedule for specific positions or categories, first filter the schedule online using the options in Usher. 
 
-
+Then select print and you will see in the preview that only what you have selected will be printed.
 
 
 
