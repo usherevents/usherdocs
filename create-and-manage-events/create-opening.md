@@ -36,7 +36,7 @@ Usher was designed to solve time-consuming problems and the T+/- feature helps w
 
 Thanks to the T+/- feature, Usher allows you to [shift dates](manage-opening.md#shift-dates) for the entire Opening within seconds and create templates for repeatable processes so each new opening schedule can be created very efficiently.
 
-Now, let's walk through how to create a complete opening.
+Now, let's go through how to create a complete opening.
 
 ## Create an Opening <a id="create-an-opening"></a>
 
