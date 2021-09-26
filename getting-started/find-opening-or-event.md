@@ -1,5 +1,7 @@
 # Find Opening or Event
 
+**Looking for a particular Opening or Event?**
+
 Current and Future Openings are shown in chronological order on the LIST page.
 
 Select **LIST** from the main menu.
