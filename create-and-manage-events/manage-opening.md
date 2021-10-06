@@ -259,7 +259,7 @@ There are two ways to create templates:
 4. Select the double paper icon.
 5. A pop up will ask you to name your Template.
    * The name must be unique.
-   * Spaces are allowed.
+   * Spaces and numbers are allowed.
 6. Select SAVE and you have now created a new template that will appear in your drop down list.
 
 ### Create a template from a file upload <a id="create-a-template-from-a-file-upload"></a>
