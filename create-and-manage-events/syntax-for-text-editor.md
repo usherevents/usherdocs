@@ -11,7 +11,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Header 1" %}
-Example: 
+Example text: 
 
 ```text
 # Header 1
@@ -51,7 +51,7 @@ Result:
 
 {% tabs %}
 {% tab title="Bold" %}
-Example: 
+Example text: 
 
 ```text
 **Bold Text**
@@ -91,7 +91,7 @@ _**Bold and Italic Text**_
 
 {% tabs %}
 {% tab title="Unordered List" %}
-Example:
+Example text:
 
 ```text
 * Sed sagittis eleifend rutrum
@@ -127,7 +127,7 @@ _Result_:
 
 {% tabs %}
 {% tab title="Link to Website" %}
-Example:
+Example text:
 
 ```text
 [Usher Openings and Events](https://usher.events)
