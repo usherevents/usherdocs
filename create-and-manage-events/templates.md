@@ -59,7 +59,7 @@ Templates can be deleted in Manage my account on the Templates tab.
 
 Select Delete and confirm you want to permanently remove the template from your list.
 
-Templates are not editable but you can download any template, make changes to it and then upload it as a new template. 
+Templates are not editable but you can download any template, make changes to it in Excel and then upload it as a new template. 
 
 {% hint style="info" %}
 We have a video on YouTube for more information on creating and managing templates. 
