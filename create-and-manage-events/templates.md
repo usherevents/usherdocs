@@ -4,7 +4,7 @@
 
 A template in Usher includes all of the information needed to create your Opening or Event schedule. 
 
-For Usher that means it contains session data, including:
+For Usher that means it contains session data including:
 
 * IDs
 * Titles
