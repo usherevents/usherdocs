@@ -23,7 +23,7 @@ Result:
 {% endtab %}
 
 {% tab title="Header2" %}
-Example: 
+Example text: 
 
 ```text
 ## Header 2
@@ -35,7 +35,7 @@ Result:
 {% endtab %}
 
 {% tab title="Header 3" %}
-Example: 
+Example text: 
 
 ```text
 ### Header 3
@@ -63,7 +63,7 @@ Result:
 {% endtab %}
 
 {% tab title="Italic" %}
-Example:
+Example text:
 
 ```text
 *Italic Text*
@@ -75,7 +75,7 @@ _Italic Text_
 {% endtab %}
 
 {% tab title="Bold and Italic" %}
-Example:
+Example text:
 
 ```text
 ***Bold and Italic Text***
@@ -107,7 +107,7 @@ Result:
 {% endtab %}
 
 {% tab title="Ordered List" %}
-_Example_:
+_Example text_:
 
 ```text
 1. Sed sagittis eleifend rutrum
@@ -139,7 +139,7 @@ Result:
 {% endtab %}
 
 {% tab title="Link to an Image" %}
-_Example_:
+_Example text_:
 
 ```text
 ![We are Open](https://images.unsplash.com/photo-1593238350099-405c38243571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
