@@ -14,7 +14,7 @@ For Usher that means it contains session data, including
 * End Times
 * Positions
 * Categories
-* Location
+* Locations
 * Published status 
 
 {% hint style="info" %}
