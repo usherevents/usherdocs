@@ -282,3 +282,9 @@ Select Delete and confirm you want to permanently remove the Template from your 
 
 Templates are not editable but you can download any template, make changes to it and then upload it as a new template. 
 
+{% hint style="info" %}
+We have a video on YouTube for more information on creating and managing templates. 
+
+Check it out here: [Using Templates in Usher](https://youtu.be/USElUDIbQRE).
+{% endhint %}
+
