@@ -41,9 +41,9 @@ There are two ways to create templates:
    * Spaces and numbers are allowed.
 6. Select SAVE and you have now created a new template that will appear in your drop down list.
 
-### Create a template from a file upload <a id="create-a-template-from-a-file-upload"></a>
+### Create a template from a CSV file upload <a id="create-a-template-from-a-file-upload"></a>
 
-Select your account name on the main menu, then select Manage my account, and the Templates tab.
+Select your account name on the main menu, then select Manage my account, and go to the Templates tab.
 
 Select the yellow Add a new Template button.
 
