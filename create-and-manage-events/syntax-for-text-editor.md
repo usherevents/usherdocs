@@ -11,37 +11,37 @@ description: >-
 
 {% tabs %}
 {% tab title="Header 1" %}
-Example text: 
+_Example text:_ 
 
 ```text
 # Header 1
 ```
 
-Result:
+_Result:_
 
 ## Header 1
 {% endtab %}
 
 {% tab title="Header2" %}
-Example text: 
+_Example text:_ 
 
 ```text
 ## Header 2
 ```
 
-Result:
+_Result:_
 
 ### Header 2
 {% endtab %}
 
 {% tab title="Header 3" %}
-Example text: 
+_Example text:_ 
 
 ```text
 ### Header 3
 ```
 
-Result:
+_Result:_
 
 #### Header 3
 {% endtab %}
@@ -51,37 +51,37 @@ Result:
 
 {% tabs %}
 {% tab title="Bold" %}
-Example text: 
+_Example text:_ 
 
 ```text
 **Bold Text**
 ```
 
-Result:
+_Result:_
 
 **Bold Text**
 {% endtab %}
 
 {% tab title="Italic" %}
-Example text:
+_Example text:_
 
 ```text
 *Italic Text*
 ```
 
-Result:
+_Result:_
 
 _Italic Text_
 {% endtab %}
 
 {% tab title="Bold and Italic" %}
-Example text:
+_Example text:_
 
 ```text
 ***Bold and Italic Text***
 ```
 
-Result:
+_Result:_
 
 _**Bold and Italic Text**_
 {% endtab %}
@@ -91,7 +91,7 @@ _**Bold and Italic Text**_
 
 {% tabs %}
 {% tab title="Unordered List" %}
-Example text:
+_Example text:_
 
 ```text
 * Sed sagittis eleifend rutrum
@@ -99,7 +99,7 @@ Example text:
 * Nulla tempor lobortis orci
 ```
 
-Result:
+_Result:_
 
 * Sed sagittis eleifend rutrum
 * Donec vitae suscipit est
@@ -115,7 +115,7 @@ _Example text_:
 3. Nulla tempor lobortis orci
 ```
 
-_Result_:
+_Result_::
 
 1. Sed sagittis eleifend rutrum
 2. Donec vitae suscipit est
@@ -127,7 +127,7 @@ _Result_:
 
 {% tabs %}
 {% tab title="Link to Website" %}
-Example text:
+_Example text:_
 
 ```text
 [Usher Openings and Events](https://usher.events)
@@ -139,7 +139,7 @@ Result:
 {% endtab %}
 
 {% tab title="Link to an Image" %}
-_Example text_:
+_Example text_::
 
 ```text
 ![We are Open](https://images.unsplash.com/photo-1593238350099-405c38243571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
