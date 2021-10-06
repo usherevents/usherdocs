@@ -4,9 +4,11 @@
 
 ### **Openings**
 
-> Usher Openings rock for franchise openings with many time and money saving features.
+{% hint style="success" %}
+Usher works brilliantly for franchise openings with many time-saving features!
+{% endhint %}
 
-Any new hotel, restaurant, store or business requires special scheduling and the flexibility to change to keep the ball moving. Openings can be planned even years in advance and preparing for a grand opening takes weeks or even months of training sessions. 
+Opening any new hotel, restaurant, store, or business requires special scheduling and the flexibility to change to keep the ball moving. Preparing for a grand opening takes weeks or even months of training sessions. With Usher, **Openings can be planned even years in advance** and schedule changes are quick and easy.
 
 Choose Opening to create a schedule for your team and vendors that allows for shifting dates of all sessions if your opening date gets pushed.
 
