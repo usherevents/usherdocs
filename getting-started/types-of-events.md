@@ -10,7 +10,7 @@ Opening any new hotel, restaurant, store, or business requires special schedulin
 Usher works brilliantly for franchise openings with many time-saving features!
 {% endhint %}
 
-Choose Opening to create a schedule for your team and vendors that allows for shifting dates of all sessions if your opening date gets pushed.
+Choose **Opening** to create a schedule for your team and vendors which allows for shifting dates of all sessions if your opening date gets pushed.
 
 {% hint style="info" %}
 _Examples_: 
@@ -27,7 +27,7 @@ Planning a music festival in Nashville? A tech conference in Miami? Or maybe you
 
 Events that span days, weeks or even months or years can be scheduled in Usher. Plus you can begin planning years in advance and keep the schedule private until you are ready to go live. 
 
-Select this option if your event is not an Opening of a new business and your sessions will be on more than one day.
+Select **Multi-Day Event** if your event is not an Opening of a new business and your sessions will be on more than one day.
 
 {% hint style="info" %}
 _Examples_: 
@@ -44,7 +44,7 @@ Some events pack a lot of things into a single day.
 
 Usher can manage a schedule of virtually unlimited Sessions. 
 
-Choose the Single-Day Event option for your event that happens on just one special day.
+Choose the **Single-Day Event** option for your event that happens on just one special day.
 
 {% hint style="info" %}
 _Examples_: 
