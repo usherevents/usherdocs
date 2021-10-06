@@ -15,6 +15,7 @@
 * [Manage Opening](create-and-manage-events/manage-opening.md)
 * [Create Event](create-and-manage-events/create-event.md)
 * [Manage Event](create-and-manage-events/manage-event.md)
+* [Templates](create-and-manage-events/templates.md)
 * [Printing the Schedule](create-and-manage-events/printing-the-schedule.md)
 * [Syntax for Text Editor](create-and-manage-events/syntax-for-text-editor.md)
 
