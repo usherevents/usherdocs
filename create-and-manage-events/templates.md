@@ -6,15 +6,15 @@ A template in Usher includes all of the information needed to create your Openin
 
 For Usher that means it contains session data, including 
 
-* IDs, 
-* Titles, 
-* Descriptions, 
-* Dates or T +/- Numbers, 
-* Start Times, 
-* End Times, 
-* Positions, 
-* Categories, 
-* Locations 
+* IDs
+* Titles
+* Descriptions
+* Dates or T +/- Numbers
+* Start Times
+* End Times
+* Positions
+* Categories
+* Location
 * Published status 
 
 {% hint style="info" %}
