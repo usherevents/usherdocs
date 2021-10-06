@@ -45,11 +45,11 @@ There are two ways to create templates:
 
 Select your account name on the main menu, then select Manage my account, and go to the Templates tab.
 
-Select the yellow Add a new Template button.
+Select the yellow Add Template button.
 
-Upload your .csv file to create your template.
+Upload your CSV file to create your template.
 
-The format for the .csv file is the same as for creating a new opening.
+The format for the CSV file is the same as for creating a new opening.
 
 {% file src="../.gitbook/assets/templateuploadexample \(1\).csv" %}
 
