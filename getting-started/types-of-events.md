@@ -35,7 +35,7 @@ _Examples_:
 * Conferences
 * Music Festivals 
 * Destination Weddings
-* Book Tour
+* Book Tours
 {% endhint %}
 
 ### **Single Day Events**
