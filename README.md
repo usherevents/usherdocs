@@ -10,7 +10,7 @@ New hires, trainers, vendors, and management simply go online via any web browse
 
 Management can change information and schedules anytime and updates are **immediately available** online.
 
-[Templates](create-and-manage-events/manage-opening.md#create-templates) are just one key feature in Usher that will save you tons of time.
+[Templates](create-and-manage-events/templates.md) are just one key feature in Usher that will save you tons of time.
 
 ![There is no limit to the number of templates you can have in your account.](.gitbook/assets/templateslist2.png)
 
