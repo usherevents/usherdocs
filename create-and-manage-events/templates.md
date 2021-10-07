@@ -21,8 +21,6 @@ For Usher that means it contains session data including:
 Templates do not include Presenters, Attendees or Event Admins as these are likely to change for each Opening or Event and can be easily added at any time.
 {% endhint %}
 
-
-
 ## How to Create Templates <a id="create-templates"></a>
 
 There are two ways to create templates:
