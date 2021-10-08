@@ -18,7 +18,7 @@ _Examples_: Front Desk, Sales Associate, Server, Housekeeping, Management
 
 Usher ensures that everyone who needs to attend a session will see the session on their schedule when it is filtered by position. In the session add/edit screen simply include additional positions to that session.
 
-Openings also require an **opening date**. 
+Openings are based on an **opening date**. 
 
 What differs about this opening date from other events like conferences, is that it usually lands on the last day or near the last day of the all sessions rather than the first day. **Opening day is like launch day.** As the rocket launch counts down you see the T- numbers count down toward the launch. We do the same thing in Usher.
 
