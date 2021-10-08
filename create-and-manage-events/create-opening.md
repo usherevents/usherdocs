@@ -29,12 +29,12 @@ You set your opening date. Then each session is set at a T- \(or +\) number.
 * -9 = Nine days before opening
 * +1 = One day _after_ opening
 
-Usher was designed to solve time-consuming problems and the T+/- feature helps with two major time-eaters: 
+Usher's T+/- feature was designed to solve time-consuming problems: 
 
 * Scheduling changes – with the most common being Openings delayed.
 * Re-doing work – having to add the same sessions over and over each time you do a new opening.
 
-Thanks to the T+/- feature, Usher allows you to [shift dates](manage-opening.md#shift-dates) for the entire Opening within seconds and create templates for repeatable processes so each new opening schedule can be created very efficiently.
+Utilizing the T+/- feature, Usher can [shift dates](manage-opening.md#shift-dates) for the entire Opening within seconds and create templates for repeatable processes so each new opening schedule can be created very efficiently.
 
 Now, let's go through how to create a complete opening.
 
