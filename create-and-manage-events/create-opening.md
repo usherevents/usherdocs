@@ -70,7 +70,7 @@ Usher will not let you choose any URL that has already been used.
 
 Select your Opening Date.
 
-> _What if I don’t know what the date will be yet?_
+_**What if I don’t know what the date will be yet?**_
 
 The Opening date is required but can be changed as many times as you want. ****Choose an Opening Date anytime in the future.
 
