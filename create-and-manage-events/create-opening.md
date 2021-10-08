@@ -20,7 +20,7 @@ Usher ensures that everyone who needs to attend a session will see the session o
 
 Openings are based on an **opening date**. 
 
-What differs about this opening date from other events like conferences, is that it usually lands on the last day or near the last day of the all sessions rather than the first day. **Opening day is like launch day.** As the rocket launch counts down you see the T- numbers count down toward the launch. We do the same thing in Usher.
+What makes this opening date different from a typical event opening date, is that it usually lands on the last day or nearly the last day of the all sessions rather than the first day. **Opening day is like launch day.** As the rocket launch counts down you see the T- numbers count down toward the launch. We do the same thing in Usher.
 
 You set your opening date. Then each session is set at a T- \(or +\) number.
 
