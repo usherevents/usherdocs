@@ -85,7 +85,7 @@ If your file upload fails, you can discard the file and try again with another f
 
 Neither a Template or File upload is required. You can add each session individually by skipping those options. 
 
-[Individual Sessions can be added](create-event.md#add-individual-session) in form view once you have completed the initial create process.
+[Individual Sessions can be added](add-event-sessions.md#add-individual-session) in form view once you have completed the initial create process.
 
 ## Event Details <a href="event-details" id="event-details"></a>
 
