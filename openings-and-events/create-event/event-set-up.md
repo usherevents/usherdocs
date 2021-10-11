@@ -1,6 +1,6 @@
 # Event Set Up
 
-## Create an Event <a href="create-an-event" id="create-an-event"></a>
+## Choose an Event Type <a href="create-an-event" id="create-an-event"></a>
 
 From the main menu, select CREATE
 
