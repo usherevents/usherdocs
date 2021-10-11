@@ -28,7 +28,13 @@ Usher will not let you choose any URL that has already been used.
 
 **Choose your URL carefully. **Your custom URL is not editable after you have created your opening or event. Almost everything else can be changed later except the URL.
 
-## Event Dates <a href="event-dates" id="event-dates"></a>
+## Event Name <a href="event-dates" id="event-dates"></a>
+
+Usher puts whatever you chose for your URL as the name of your Event. 
+
+Change it to whatever you would like. The name can be changed anytime later in Options.
+
+## Event Dates
 
 Select your Event Date(s)
 
