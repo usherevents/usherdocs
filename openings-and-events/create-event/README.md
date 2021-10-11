@@ -4,6 +4,10 @@
 
 Events in Usher can be Multiple-day or Single-day, both comprised of sessions - classes, meetings or any other activities that people need to attend. Sessions on the schedule are filterable by Track and Category.
 
+Here's an introduction to a few key features before we get to [creating a complete Event](event-set-up.md#create-an-event). 
+
+### Key Features
+
 Choosing a **primary track is required** for each session and is what determines the color coding you see on the public schedule.
 
 Tracks are commonly used for Conferences but also applicable to most types of events.
