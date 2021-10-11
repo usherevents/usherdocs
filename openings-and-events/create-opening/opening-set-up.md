@@ -16,7 +16,7 @@ The first step is to select your custom URL.
 _Example_: hotelopening.usher.events
 {% endhint %}
 
-Your opening schedule and details at your custom URL will be available when you [GO LIVE](../create-event/create-event.md) with your Opening or Event.
+Your opening schedule and details at your custom URL will be available when you [GO LIVE](go-live-opening.md) with your Opening or Event.
 
 Anyone with the URL will be able to visit your customized site for your Opening.
 
@@ -36,9 +36,9 @@ _**What if I don’t know what the date will be yet?**_
 
 The Opening date is required but can be changed as many times as you want.** **Choose an Opening Date anytime in the future.
 
-All Events and Openings are held in [DRAFT status](../../getting-started/create-account.md#draft-status) until you choose to [GO LIVE](../create-event/create-event.md). This means that your schedule and information about your event are not yet shown online at your chosen URL.
+All Events and Openings are held in [DRAFT status](../../getting-started/create-account.md#draft-status) until you choose to [GO LIVE](go-live-opening.md). This means that your schedule and information about your event are not yet shown online at your chosen URL.
 
-**You can change your Opening date as many times as needed both before and after you **[**GO LIVE**](../create-event/create-event.md)**.**
+**You can change your Opening date as many times as needed both before and after you **[**GO LIVE**](go-live-opening.md)**.**
 
 ## Adding Sessions <a href="adding-sessions" id="adding-sessions"></a>
 
@@ -85,7 +85,7 @@ If your file upload fails, you can discard the file and try again with another f
 
 Neither a Template nor File upload is required. You can add each session individually by skipping those options. 
 
-[Individual Sessions can be added](../create-event/add-edit-sessions.md#add-individual-session) in form view once you have completed the initial create process.
+[Individual Sessions can be added](add-opening-sessions.md) in form view once you have completed the initial create process.
 
 ## Event Details <a href="event-details" id="event-details"></a>
 
