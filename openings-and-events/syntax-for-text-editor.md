@@ -13,7 +13,7 @@ description: >-
 {% tab title="Header 1" %}
 _Example text:_ 
 
-```text
+```
 # Header 1
 ```
 
@@ -23,9 +23,9 @@ _Result:_
 {% endtab %}
 
 {% tab title="Header2" %}
-_Example text:_ 
+_Example text: _
 
-```text
+```
 ## Header 2
 ```
 
@@ -37,7 +37,7 @@ _Result:_
 {% tab title="Header 3" %}
 _Example text:_ 
 
-```text
+```
 ### Header 3
 ```
 
@@ -51,9 +51,9 @@ _Result:_
 
 {% tabs %}
 {% tab title="Bold" %}
-_Example text:_ 
+_Example text: _
 
-```text
+```
 **Bold Text**
 ```
 
@@ -65,7 +65,7 @@ _Result:_
 {% tab title="Italic" %}
 _Example text:_
 
-```text
+```
 *Italic Text*
 ```
 
@@ -77,7 +77,7 @@ _Italic Text_
 {% tab title="Bold and Italic" %}
 _Example text:_
 
-```text
+```
 ***Bold and Italic Text***
 ```
 
@@ -93,7 +93,7 @@ _**Bold and Italic Text**_
 {% tab title="Unordered List" %}
 _Example text:_
 
-```text
+```
 * Sed sagittis eleifend rutrum
 * Donec vitae suscipit est
 * Nulla tempor lobortis orci
@@ -109,7 +109,7 @@ _Result:_
 {% tab title="Ordered List" %}
 _Example text_:
 
-```text
+```
 1. Sed sagittis eleifend rutrum
 2. Donec vitae suscipit est
 3. Nulla tempor lobortis orci
@@ -129,33 +129,34 @@ _Result_::
 {% tab title="Link to Website" %}
 _Example text:_
 
-```text
+```
 [Usher Openings and Events](https://usher.events)
 ```
 
 Result:
 
-[Usher Openings and Events](https://usher.events/)
+[Usher Openings and Events](https://usher.events)
 {% endtab %}
 
 {% tab title="Link to an Image" %}
 _Example text_::
 
-```text
+```
 ![We are Open](https://images.unsplash.com/photo-1593238350099-405c38243571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
 ```
 
 _Result_:
 
-![We are Open](https://images.unsplash.com/photo-1593238350099-405c38243571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+![We are Open](https://images.unsplash.com/photo-1593238350099-405c38243571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=1950\&q=80)
+
+
 {% endtab %}
 {% endtabs %}
 
 Note: The text editor uses Markdown syntax so if you want additional options for your edits, you can use the guide provided here: [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/).
 
-\_\_
+__
 
 
 
-\_\_
-
+__

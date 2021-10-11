@@ -2,7 +2,7 @@
 
 #### Creating an account on Usher is simple and free.
 
-## Register <a id="register"></a>
+## Register <a href="register" id="register"></a>
 
 1. From the homepage at Usher.events select CREATE AN EVENT.
 2. Select Sign Up Here.
@@ -11,7 +11,7 @@
 5. Select or copy that link into your browser to complete the validation.
 6. You can then Log In with the email provided and password you created.
 
-## DRAFT Status <a id="draft-status"></a>
+## DRAFT Status <a href="draft-status" id="draft-status"></a>
 
 Usher allows you create Openings and Events at no charge as long as they remain in DRAFT status.
 
@@ -21,7 +21,7 @@ DRAFT status means that your personalized site is not live yet at the URL you ch
 
 While in DRAFT status, you can add and edit:
 
-* Sessions \(Schedule\)
+* Sessions (Schedule)
 * Event Image
 * Details and Information
 * Locations
@@ -29,9 +29,9 @@ While in DRAFT status, you can add and edit:
 * Presenters
 * Color Coding and more
 
-The documentation will step you through the process of creating an Opening or Event all the way through [going LIVE](/createopening.html#go-live).
+The documentation will step you through the process of creating an Opening or Event all the way through [going LIVE](https://app.gitbook.com/createopening.html#go-live).
 
-## Switch to Company Name <a id="change-to-company-name"></a>
+## Switch to Company Name <a href="change-to-company-name" id="change-to-company-name"></a>
 
 When you create an account, your name is automatically set as the account name. You can add your Company as a separate account.
 
@@ -46,4 +46,3 @@ You now have two accounts - a personal account and a company account. To switch 
 {% endhint %}
 
 When adding administrators, be careful to add them to the correct account - typically your Company account. Also, when adding Openings or Events, be sure you are in the correct account before adding. If you accidentally add an Opening or Event to the wrong account, [contact us](https://usher.events/contact) for help.
-

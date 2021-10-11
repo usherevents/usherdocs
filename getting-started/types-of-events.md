@@ -10,7 +10,7 @@ Opening any new hotel, restaurant, store, or business requires special schedulin
 Usher works brilliantly for franchise openings with many time-saving features!
 {% endhint %}
 
-Choose **Opening** to create a schedule for your team and vendors which allows for [shifting dates](../create-and-manage-events/manage-opening.md#shift-dates) of all sessions if your opening date gets pushed.
+Choose **Opening** to create a schedule for your team and vendors which allows for [shifting dates](../openings-and-events/manage-opening.md#shift-dates) of all sessions if your opening date gets pushed.
 
 {% hint style="info" %}
 _Examples_: 
@@ -56,6 +56,5 @@ _Examples_:
 {% endhint %}
 
 {% hint style="danger" %}
-**If your event will have sessions that** _**begin**_ **both before and past midnight, you will want to select the multi-day option instead.** 
+**If your event will have sessions that **_**begin**_** both before and past midnight, you will want to select the multi-day option instead. **
 {% endhint %}
-

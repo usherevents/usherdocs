@@ -2,7 +2,7 @@
 
 Created in partnership with Marriott International, Usher is designed to manage Openings which can span years and often have many changes to the schedule.
 
-Built as a SaaS \(**S**oftware **a**s **a** **S**ervice\) application, Usher makes schedule management for opening a new restaurant, hotel, store, or business simple and efficient.
+Built as a SaaS (**S**oftware **a**s **a** **S**ervice) application, Usher makes schedule management for opening a new restaurant, hotel, store, or business simple and efficient.
 
 ![](.gitbook/assets/scheduleview3.png)
 
@@ -10,7 +10,7 @@ New hires, trainers, vendors, and management simply go online via any web browse
 
 Management can change information and schedules anytime and updates are **immediately available** online.
 
-[Templates](create-and-manage-events/templates.md) are just one key feature in Usher that will save you tons of time.
+[Templates](openings-and-events/templates.md) are just one key feature in Usher that will save you tons of time.
 
 ![There is no limit to the number of templates you can have in your account.](.gitbook/assets/templateslist2.png)
 
@@ -18,7 +18,7 @@ Every opening requires sets of sessions that are the same or very similar each t
 
 If you manage multiple brands or have openings that require different sets of sessions based on the size of the location, no problem. Create a template for each option.
 
-## Openings _and_ Events <a id="openings-and-events"></a>
+## Openings _and_ Events <a href="openings-and-events" id="openings-and-events"></a>
 
 The other half of Usher handles scheduling for Events: Multi-Day Events and Single-Day Events
 
@@ -39,4 +39,3 @@ _Multi-Day and Single-Day Events are differentiated only due to the Shift Dates 
 [Create an account today](getting-started/create-account.md#creating-an-account-on-usher-is-simple-and-free) and try it yourself!
 
 If you get stuck, check the documentation here or [send us a message](https://usher.events/contact) and we will be happy to help.
-

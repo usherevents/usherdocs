@@ -9,20 +9,27 @@
 * [Add Account Admins](getting-started/add-account-admins.md)
 * [Types of Events](getting-started/types-of-events.md)
 
-## CREATE AND MANAGE EVENTS
+## OPENINGS AND EVENTS
 
-* [Create Opening](create-and-manage-events/create-opening.md)
-* [Manage Opening](create-and-manage-events/manage-opening.md)
-* [Create Event](create-and-manage-events/create-event.md)
-* [Manage Event](create-and-manage-events/manage-event.md)
-* [Templates](create-and-manage-events/templates.md)
-* [Printing the Schedule](create-and-manage-events/printing-the-schedule.md)
-* [Syntax for Text Editor](create-and-manage-events/syntax-for-text-editor.md)
+* [Create Opening](openings-and-events/create-opening/README.md)
+  * [Opening Set Up](openings-and-events/create-opening/opening-set-up.md)
+  * [Add/Edit Sessions](openings-and-events/create-opening/add-edit-sessions.md)
+  * [My Events - Home Base](openings-and-events/create-opening/my-events-home-base.md)
+  * [Go Live](openings-and-events/create-opening/go-live.md)
+* [Manage Opening](openings-and-events/manage-opening.md)
+* [Create Event](openings-and-events/create-event/README.md)
+  * [Event Set Up](openings-and-events/create-event/event-set-up.md)
+  * [Add/Edit Sessions](openings-and-events/create-event/add-edit-sessions.md)
+  * [My Events - Home Base](openings-and-events/create-event/my-events-home-base.md)
+  * [Go Live](openings-and-events/create-event/create-event.md)
+* [Manage Event](openings-and-events/manage-event.md)
+* [Templates](openings-and-events/templates.md)
+* [Printing the Schedule](openings-and-events/printing-the-schedule.md)
+* [Syntax for Text Editor](openings-and-events/syntax-for-text-editor.md)
 
-## ADDITIONAL INFORMATION <a id="pricing-and-contact"></a>
+## ADDITIONAL INFORMATION <a href="pricing-and-contact" id="pricing-and-contact"></a>
 
 * [Pricing](pricing-and-contact/pricing-information.md)
 * [Example Files for Uploads](pricing-and-contact/examplefiles.md)
 * [Usher Website](pricing-and-contact/usher-website.md)
 * [Contact and Social](pricing-and-contact/contact-us.md)
-
