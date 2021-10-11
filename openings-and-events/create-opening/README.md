@@ -4,7 +4,7 @@
 
 Openings in Usher are tailored specifically to hotels, restaurants, stores and other businesses getting ready or planning to open a new location. Openings are comprised of sessions - classes, meetings or any other activities - that people need to attend. Sessions on the schedule are filterable by Position and Category.
 
-Here's an introduction to a few key features before we get to [creating a complete Opening](./#create-an-opening). 
+Here's an introduction to a few key features before we get to [creating a complete Opening](opening-set-up.md#create-an-opening). 
 
 ### Key Features
 
