@@ -24,7 +24,7 @@ The other half of Usher handles scheduling for Events: Multi-Day Events and Sing
 
 **Multi-Day Events**
 
-Multi-Day Events feature unlimited numbers of sessions over unlimited days/weeks/months - even years. Events are not for new hires and training and thus this is tailored to a more general event audience.
+Multi-Day Events feature unlimited numbers of sessions over unlimited days/weeks/months - even years. Events in Usher are perfect for any kind of event audience.
 
 Conferences, Festivals, and Destination Weddings are examples of Multi-Day Events
 
